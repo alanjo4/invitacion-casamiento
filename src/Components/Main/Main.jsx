@@ -58,9 +58,7 @@ function NewMain () {
             <div className="Fecha-component">
                 <NewFecha/>
             </div>
-
        </div>
-       
     )
 }
 
